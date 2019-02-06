@@ -14,12 +14,20 @@ Refer Assignment1.pdf for more details
 ### Output
 ![Output](assignment1_sharma_harsh.jpg)
 
-### Requirements
-Python - 3.6.7
-VTK - 8.1.2
 
-Object and texture files to be rendered.
+### Development Environment
+
+- Python - 3.6.7
+- VTK - 8.1.2
+- OS - Ubuntu 18.04.1 LTS
+- Kernel - 4.15.0-45-generic
+
+Object and texture files used to rendered - apple_obj.obj, apple_texture.jpg
+
+
 
 ### How to run
 1) Open file assignment1.py and update lines 21, 22, 23 with the object file, texture file and output file location and names
 2) Run the file using python3
+
+``python3 assignment1.py ``
