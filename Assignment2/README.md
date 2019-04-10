@@ -2,6 +2,11 @@
 ##  MM 804 GRAPHICS AND ANIMATION
 ___
 
+### Harsh Sharma
+### 1546263
+
+______
+
 ### About
 Volume Rendering, Interaction and Histogram Computation
 
